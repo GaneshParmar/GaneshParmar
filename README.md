@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GaneshParmar
+- 👋 Hi, I’m G@neshParmar
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning C++, Web programming.
+- 🌱 I’m a Java Coder, Web programming.
 - 💞️ I’m looking to collaborate on coding.
 - 📫 How to reach me ...
 
